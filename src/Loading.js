@@ -8,7 +8,6 @@ function Loading() {
       <FontAwesomeIcon icon={faVideo} className="video-icon" />
       <p>Movie App</p>
     </div>
-    <span>gdgd</span>
 </div>
 }
 
