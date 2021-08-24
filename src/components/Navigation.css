@@ -1,0 +1,22 @@
+.link-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: fixed;
+  top: 10px;
+  left: 15px;
+  font-size: 25px;
+}
+
+.link-home,
+.link-about {
+  display: block;
+  text-align: center;
+  width: 70px;
+  height: 30px;
+  background-color: #d7d7d7;
+}
+
+.link-home {
+  margin-bottom: 10px;
+}
